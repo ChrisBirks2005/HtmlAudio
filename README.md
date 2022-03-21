@@ -1,10 +1,7 @@
 # HtmlAudio
 HTHML script that will play audio upon loading the website
 
-Note: Chromium browsers do not allow autoplay in most cases. However, muted autoplay is always allowed.
-
-
-.
+Note: Chromium browsers do not allow autoplay in most cases. However, muted autoplay is always allowed.                                                                                                                                                                                                                                         
 
 Depending on the audio type is depending on what media type you have to replace
 
